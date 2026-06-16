@@ -2,7 +2,7 @@
 Meu primerio projeto de avaliacao de Treino em Python.
 ## fucionalidades
 
-- cadaastro do nome do lutador
+- cadastro do nome do lutador
 - idade do lutador
 - minutos de corda
 - rounds de boxe
