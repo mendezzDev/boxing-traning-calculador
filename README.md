@@ -1,2 +1,16 @@
-# boxing-traning-calculador
-Calcula quantos pontos voce faz, de acordo com as suas respostas. tem: quilometragem, Rounds e Tempo de corda
+# Sistema de treino do Lutador
+Meu primerio projeto de avaliacao de Treino em Python.
+## fucionalidades
+
+- cadaastro do nome do lutador
+- idade do lutador
+- minutos de corda
+- rounds de boxe
+- sistema de pontuacao
+- quilometros corridos
+- Relatorio
+
+  ## tecnologia
+  - Python
+    ## Autor
+    Enzo Mendes
