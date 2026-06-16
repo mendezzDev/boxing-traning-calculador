@@ -14,3 +14,5 @@ Meu primerio projeto de avaliacao de Treino em Python.
   - Python
     ## Autor
     Enzo Mendes
+
+## Aorendendo hoje e desenvolvendo no futuro
